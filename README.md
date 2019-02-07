@@ -10,7 +10,7 @@ As Python is the go-to language for me, this repository tries to rewrite R noteb
 Datasets are the same and have been accumulated in its respectively week data folder. 
 
 Week Number | Weeks Cap Name | Link to Repo
---- | --- | --- | ---
+--- | --- | --- 
 1 |  Basic Statistical |  [Week Repo](https://github.com/jcabralc/Practical-Time-Series-Analysis/tree/master/Week1-Basic%20Statistics "Week 1")
 2 |  Visualizing Time Series, and Beginning to Model Time Series | Coming Soon
 3 |  Stationarity, MA(q) and AR(q) processes |  Coming Soon
