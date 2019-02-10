@@ -1,0 +1,90 @@
+1. 
+Enter the following dataset in R using concatenation operator. You may edit the code fragment below:
+
+### 37, 86, 79, 95, 61, 93, 19, 98, 121, 26, 39, 11, 26, 75, 29,130, 42, 8###
+
+Obtain 5-number summary. You may edit the code fragment below. What is the sample mean?
+
+Answer:
+   data=pd.DataFrame([37, 86, 79, 95, 61, 93, 19, 98, 121, 26, 39, 11, 26, 75, 29,130, 42, 8])
+   data.describe().T
+   
+	count	mean		std		min	25%	50%	75%	max
+0	18.0	59.722222	38.343349	8.0	26.75	51.5	91.25	130.0
+
+----------------------------------------------------------------------------------------------------
+2. 
+Find the summary of the dataset given in the following code block. What is the 3rd quartile?
+
+Answer:
+  91.25
+
+----------------------------------------------------------------------------------------------------
+3. 
+We look at the dataset titled 'cheddar' from 'faraway' package. Continue the code in the following code block to look at 
+
+the description of the dataset 'cheddar' using help() routine. How many observations and variables are there in the 
+
+dataset?
+
+Answer:
+  30 Observations and 4 variables
+
+----------------------------------------------------------------------------------------------------
+4.
+We are still working on the dataset 'cheddar' from the package 'faraway'. Apply simple linear regression model for the 
+
+bivariate data 'taste' (modeled as a random variable Y) vs 'H2S' (modeled as a random variable X) in the dataset 'cheddar' 
+
+in using lm() routine in the following code block. What is the model?
+
+Answer:
+  Y=−9.7868+5.7761 * X + erro
+  where erro ~ N(0,10.83^2)
+
+----------------------------------------------------------------------------------------------------
+5. 
+What is the sum of the residuals in the simple linear regression model of Question 4?
+
+Answer:
+  0
+
+----------------------------------------------------------------------------------------------------
+6. 
+What is the sum of the fitted values in the simple linear regression model of Question 4? We can get the fitted values by 
+
+using lm()$fitted routine.
+
+Answer:
+ 736
+
+----------------------------------------------------------------------------------------------------
+7. 
+Does this data set appear to be normally distributed?
+
+Answer:
+ No.
+
+----------------------------------------------------------------------------------------------------
+8.
+Suppose you are testing the null hypothesis that a population mean is 0 against the alternative that it is not zero at the 
+
+alpha=0.05 level of significance.
+
+Given the following function call and printout, can you reject your null hypothesis?
+
+Answer:
+ Yes. 
+
+----------------------------------------------------------------------------------------------------
+9.
+Do you believe the R printout matches the regression in the figure?
+
+Call:
+   lm(formula = y ~ x)
+   Coefficients:
+   (Intercept) x
+   -4.48 -2.82
+
+Answer:
+  No.

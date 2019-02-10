@@ -1,0 +1,17 @@
+1. 
+Which of the following has the right R command and the right histogram for the dataset (called quiz_data) from Part 1 (provided below) with a title 'Histogram', x-label 'Quiz data' and 10 break points?
+
+quiz_data=c(37, 86, 79, 95, 61, 93, 19, 98, 121, 26, 39, 11, 26, 75, 29,130, 42, 8)
+
+Answer: 
+hist(quiz_data, breaks=10, main = 'Histogram', xlab = 'Quiz data')
+
+-------------------------------------------------------------------------------------------------------------------------
+2.
+Which of the following R - commands will produce the following histogram for the above dataset:
+
+Answer: 
+hist(quiz_data, freq=F, breaks=10, main='Histogram', xlab='Quiz data', col='blue')
+lines(density(quiz_data), col='red', lwd=5)
+
+
