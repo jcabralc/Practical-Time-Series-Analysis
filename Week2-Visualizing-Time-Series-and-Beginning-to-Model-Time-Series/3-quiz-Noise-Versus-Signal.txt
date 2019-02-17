@@ -1,0 +1,13 @@
+1) 
+Do you believe the ACF in the plot below is consistent with a pure noise signal
+
+Anwser:
+Yes
+
+----------------------------------------------------------------------------------------------------
+2)
+Do you believe the ACF in the plot below is consistent with a pure noise signal?
+
+Anwser:
+No
+
