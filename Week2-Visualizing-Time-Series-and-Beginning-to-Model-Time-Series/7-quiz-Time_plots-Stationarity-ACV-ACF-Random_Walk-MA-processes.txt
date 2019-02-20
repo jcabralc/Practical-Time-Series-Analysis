@@ -1,0 +1,73 @@
+1. 
+Time plot of a time series is shown. What can be said about the stationarity of this time series?
+
+Answer:
+It is a non-stationary time series since there is a trend.
+
+
+--------------------------------------------------------------------------------------------------------------------------
+2.
+Time plot of a time series is shown. Select one or more that can be said about the stationarity of this time series.
+
+Answer:
+- It is non-stationary since there is a trend.
+- It is non-stationary.
+
+--------------------------------------------------------------------------------------------------------------------------
+3.
+Time plot of a time series is shown. Select one or more that can be said about the stationarity of this time series.
+
+Answer:
+- It maybe combination of two stationary time series.
+- It is a non-stationary time series.
+
+--------------------------------------------------------------------------------------------------------------------------
+4.
+What is sample autocovariance coefficient c5?
+
+Answer:
+0.403
+
+--------------------------------------------------------------------------------------------------------------------------
+5.
+What is the sample autocorrelation coefficient r0 for any time series?
+
+Answer:
+It is 1.
+
+--------------------------------------------------------------------------------------------------------------------------
+6.
+What is r5?
+
+Answer:
+0.233
+
+--------------------------------------------------------------------------------------------------------------------------
+7. 
+Which one or more of the following can be said about the random walk?
+
+Answer:
+- Random walk model relates current value of the time series to the previous value by adding some random deviation to the previous value.
+- Random walk is the accumulation of random deviations from previous steps until the current time.
+
+--------------------------------------------------------------------------------------------------------------------------
+8. 
+How one can obtain a stationary stochastic process from the random walk?
+
+Answer:
+Using the difference operator.
+
+--------------------------------------------------------------------------------------------------------------------------
+9. 
+Which one or more of the following can be said about moving average processes?
+
+Answer:
+- The current value of the process now is a linear combination of the noises from current and past time steps.
+- Autocorrelation function of the process cuts off and becomes zero at the order of the process.
+
+--------------------------------------------------------------------------------------------------------------------------
+10.
+What is the autocorrelation coefficient at lag 4?
+
+Answer:
+0	

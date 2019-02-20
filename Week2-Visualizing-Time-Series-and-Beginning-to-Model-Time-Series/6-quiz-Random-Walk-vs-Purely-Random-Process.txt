@@ -1,0 +1,6 @@
+1. 
+Which one of the following models represents a random walk? Zt is a purely random process with mean μ and variance σ_Z^2.
+
+Answer:
+Xt = Xt−1 + Zt
+​	
