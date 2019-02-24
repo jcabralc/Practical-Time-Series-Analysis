@@ -13,7 +13,7 @@ Week Number | Weeks Cap Name | Link to Repo
 --- | --- | --- 
 1 |  Basic Statistical |  [Week Repo](https://github.com/jcabralc/Practical-Time-Series-Analysis/tree/master/Week1-Basic%20Statistics "Week 1")
 2 |  Visualizing Time Series, and Beginning to Model Time Series | [Week Repo](https://github.com/jcabralc/Practical-Time-Series-Analysis/tree/master/Week2-Visualizing-Time-Series-and-Beginning-to-Model-Time-Series "Week 2")
-3 |  Stationarity, MA(q) and AR(q) processes |  Coming Soon
+3 |  Stationarity, MA(q) and AR(q) processes | [Week Repo](https://github.com/jcabralc/Practical-Time-Series-Analysis/tree/master/Week3-Stationarity-MA(q)-and-AR(p)-processes "Week 3")
 4 |  AR(p) processes, Yule-Walker equations, PACF | Coming Soon
 5 |  Akaike Information Criterion (AIC), Mixed Models, Integrated Models |  Coming Soon
 6 |  Seasonality, SARIMA, Forecasting | Coming Soon
